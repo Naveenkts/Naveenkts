@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Naveenkts
+- 👀 I’m interested in Azure Architecture...
+- 🌱 I’m currently learning Az-304 cert...
+- 💞️ I’m looking to collaborate on Azure any subject ...
+- 📫 How to reach me ... navkts@hotmail.com
+
+<!---
+
+--->
